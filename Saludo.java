@@ -1,5 +1,5 @@
-public class Saludo {
-    public String generarSaludo(String nombre) {
+public class Saludo{
+    public String generarSaludo(String nombre){
         return "Hola, " + nombre + " !";
     }
 }
